@@ -1,15 +1,16 @@
 ### Hi there 👋, I'm Dhaval Patodiya
+
 I am actively looking for full time opportunities in SDE/Data/DevOps roles starting May 2023.
 My areas of interest are Software Development, DevOps, Data Engineering.I am always eager to hone my skills by learning new things.
 
 👨🏻‍💻  About Me
-🌱 Learning Never Stops 🚀
-🤔   Improving day by day. Exploring the potential of mind and computers
-🎓   Pursuing a Masters Degree in Computer Science at Arizona State University.
-💼   Worked as a Software Engineer at Bentley System and Truveta
-🌱   Learning more about Cloud Computing, DevOps and Web Technologies.
-📫   How to reach me: Mail me at patodiya25@gmail.com (mailto:patodiya25@gmail.com)
-✍️   Learning algorithms, exploring the world, and reading are my hobbies.
+  🌱 Learning Never Stops 🚀
+  🤔   Improving day by day. Exploring the potential of mind and computers. <br>
+  🎓   Pursuing a Masters Degree in Computer Science at Arizona State University.
+  💼   Worked as a Software Engineer at Bentley System and Truveta
+  🌱   Learning more about Cloud Computing, DevOps and Web Technologies.
+  📫   How to reach me: Mail me at patodiya25@gmail.com (mailto:patodiya25@gmail.com)
+  ✍️   Learning algorithms, exploring the world, and reading are my hobbies.
 <!-- 👨‍💻 Check out my personal portfolio : Portfolio -->
 
 🧠 Let's talk about my profile.

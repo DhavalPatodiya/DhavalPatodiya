@@ -15,7 +15,7 @@ My areas of interest are Software Development, Data Scientist, and DevOps. I am 
 
 
 
-<h3>🧠 Profile </h3>
+<h3>🧠 &nbsp;Profile </h3>
 
 Hi there! I'm Dhaval, a passionate software developer with a Master of Science in Computer Science from Arizona State University. With a 4.0/4 CGPA, I have a strong foundation in computer science fundamentals, as well as hands-on experience in developing robust software solutions.
 

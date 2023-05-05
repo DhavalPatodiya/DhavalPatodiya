@@ -17,17 +17,17 @@ My areas of interest are Software Development, Data Scientist, and DevOps. I am 
 
 
 
-🧠 Profile.
+🧠 <h3> Profile </h3>
 
 Hi there! I'm Dhaval, a passionate software developer with a Master of Science in Computer Science from Arizona State University. With a 4.0/4 CGPA, I have a strong foundation in computer science fundamentals, as well as hands-on experience in developing robust software solutions.
 
 
-🎓 Qualifications. 
+🎓 <h3> Qualifications </h3>
 
 **Master of Science in Computer Science** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
 **_Arizona State University, Tempe, AZ GPA : 4.0/4.0_** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
 
-💡 Skills. 
+💡 <h3> Skills </h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -51,7 +51,7 @@ Hi there! I'm Dhaval, a passionate software developer with a Master of Science i
 
 <br/>
 
-💼 Professisonal experiences
+💼 <h3> Professisonal experiences </h3>
 
 
 **Truveta** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
@@ -69,7 +69,7 @@ Hi there! I'm Dhaval, a passionate software developer with a Master of Science i
 - Enabled managers to directly select and update license features in the database by creating web pages with React, Redux, HTML, CSS, JavaScript, and GraphQL, resulting in a 40% reduction in middleman work. <br>
 - Boosted video engagement by 30% and improved user experience by implementing a like button feature on videos using React, CSS, HTML, JavaScript, SQL and C#. <br>
 
-🤔 Wanna see my credentials?
+🤔 <h3> Contact Me </h3>
 
 - 👔 [LinkedIn] : https://www.linkedin.com/in/DhavalPatodiya/
 - 💻 [GitHub]: https://github.com/DhavalPatodiya

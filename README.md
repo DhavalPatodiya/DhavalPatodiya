@@ -7,11 +7,9 @@ My areas of interest are Software Development, Data Scientist, and DevOps. I am 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 
-- 🌱 Growing 🚀
-- 🤔 &nbsp; Improving every second.
 - 🎓 &nbsp; Completed a Masters Degree in Computer Science at Arizona State University.
 - 💼 &nbsp; Worked as a Software Engineer at Bentley Systems and Truveta.
-- 🌱 &nbsp; Learning more about DSA, System design, and Machine Learning.
+- 🔭  &nbsp; Learning more about DSA, System design, and Machine Learning.
 - 📫 &nbsp; How to reach me: Mail me at patodiya25@gmail.com (mailto:patodiya25@gmail.com)
 - ✍️ &nbsp;  Reading Books, Traveling to new places, and playing games are my hobbies.
 
@@ -29,25 +27,39 @@ Hi there! I'm Dhaval, a passionate software developer with a Master of Science i
 
 💡 <h3> Skills </h3>
 
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+### Back-end Stack
+- Java
+- C#
+- Python
+- C++
+- PHP
+- NodeJS
+- Dot Net
+- Spring Boot
+- Flask
+- GraphQL
+- YAML 
+
+### Databases Stack
+- MySQL
+- PostgreSQL
+- MongoDB
+- DynamoDB
+
+### Front-end Stack
+- JavaScript
+- React
+- Angular
+- jQuery
+- HTML
+- CSS
+
+### Other Tech Stack
+- AWS
+- Azure
+- GitHub
+- Postman
+- Docker
 
 <br/>
 
@@ -71,7 +83,8 @@ Hi there! I'm Dhaval, a passionate software developer with a Master of Science i
 
 🤔 <h3> Contact Me </h3>
 
-- 👔 [LinkedIn] : https://www.linkedin.com/in/DhavalPatodiya/
-- 💻 [GitHub]: https://github.com/DhavalPatodiya
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/dhavalpatodiya/)
+- [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey?style=flat-square&logo=github&labelColor=lightgrey)](https://github.com/DhavalPatodiya)
+
  
 

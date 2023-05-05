@@ -9,23 +9,23 @@ My areas of interest are Software Development, Data Scientist, and DevOps. I am 
 
 - 🎓 &nbsp; Completed a Masters Degree in Computer Science at Arizona State University.
 - 💼 &nbsp; Worked as a Software Engineer at Bentley Systems and Truveta.
-- 🔭  &nbsp; Learning more about DSA, System design, and Machine Learning.
+- 🔭 &nbsp; Learning more about DSA, System design, and Machine Learning.
 - 📫 &nbsp; How to reach me: Mail me at patodiya25@gmail.com (mailto:patodiya25@gmail.com)
 - ✍️ &nbsp;  Reading Books, Traveling to new places, and playing games are my hobbies.
 
 
 
-🧠 <h3> Profile </h3>
+<h3>🧠 Profile </h3>
 
 Hi there! I'm Dhaval, a passionate software developer with a Master of Science in Computer Science from Arizona State University. With a 4.0/4 CGPA, I have a strong foundation in computer science fundamentals, as well as hands-on experience in developing robust software solutions.
 
 
-🎓 <h3> Qualifications </h3>
+<h3>🎓 Qualifications </h3>
 
 **Master of Science in Computer Science** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
 **_Arizona State University, Tempe, AZ GPA : 4.0/4.0_** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
 
-💡 <h3> Skills </h3>
+<h3>💡 Skills </h3>
 
 ### Back-end Stack
 - Java
@@ -63,7 +63,7 @@ Hi there! I'm Dhaval, a passionate software developer with a Master of Science i
 
 <br/>
 
-💼 <h3> Professisonal experiences </h3>
+<h3>💼 Professisonal experiences </h3>
 
 
 **Truveta** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
@@ -81,7 +81,7 @@ Hi there! I'm Dhaval, a passionate software developer with a Master of Science i
 - Enabled managers to directly select and update license features in the database by creating web pages with React, Redux, HTML, CSS, JavaScript, and GraphQL, resulting in a 40% reduction in middleman work. <br>
 - Boosted video engagement by 30% and improved user experience by implementing a like button feature on videos using React, CSS, HTML, JavaScript, SQL and C#. <br>
 
-🤔 <h3> Contact Me </h3>
+<h3>🤔 Contact Me </h3>
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/dhavalpatodiya/)
 - [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey?style=flat-square&logo=github&labelColor=lightgrey)](https://github.com/DhavalPatodiya)

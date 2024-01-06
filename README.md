@@ -1,7 +1,7 @@
 
 <h2> Hey there 👋, I'm Dhaval Patodiya.</h2>
 
-<h3> I am actively looking for full time opportunities in Software Engineer/Full-Stack/Back-end/Front-end/DevOps/Data roles starting May 2023. </h3>
+<h3> I am actively looking for full-time opportunities in Software Engineer/Full-Stack/Back-end/Front-end/DevOps/Data roles starting May 2023. </h3>
 
 My areas of interest are Software Development, Data Scientist, and DevOps. I am always eager to hone my skills by learning new things. 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
@@ -10,7 +10,7 @@ My areas of interest are Software Development, Data Scientist, and DevOps. I am 
 - 🎓 &nbsp; Completed a Masters Degree in Computer Science at Arizona State University.
 - 💼 &nbsp; Worked as a Software Engineer at Bentley Systems and Truveta.
 - 🔭 &nbsp; Learning more about DSA, System design, and Machine Learning.
-- 📫 &nbsp; How to reach me: Mail me at patodiya25@gmail.com (mailto:patodiya25@gmail.com)
+- 📫 &nbsp; How to reach me: Mail me at dhavalpatodiya25@gmail.com (mailto:dhavalpatodiya25@gmail.com)
 - ✍️ &nbsp;  Reading Books, Traveling to new places, and playing games are my hobbies.
 
 
@@ -65,21 +65,15 @@ Hi there! I'm Dhaval, a passionate software developer with a Master of Science i
 
 <h3>💼 Professisonal experiences </h3>
 
+**EPICS At ASU** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+**_Volunteer Software Engineer_         (July 2023 - Present)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <be>
 
 **Truveta** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
-**_Software Engineer_          (May 2022 - January 2023)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
-- Developed a Python-based data export process that led to a 40% decrease in workflow time, enhanced the precision of data transmitted from PostgreSQL to Azure Blob, and ensured secure storage of secrets in Azure KeyVault. As a result, more than 100,000 unique data rows were successfully transmitted daily. <br>
-- Streamlined PostgreSQL changes’ deployment process with a YAML-based Azure CI/CD pipeline, reducing deployment time by 80% and increasing deployment frequency by 3x.<br>
-- Programmed a robust solution in C#, SQL Server, and Dot Net to increase annotator efficiency by creating batches and sets with overlapping data and showed statistical metrics on batches, resulting in 20% increase in productivity.<br>
-- Engineered robust error handling and detailed test cases in back-end development to maximize product stability. Achieved a significantly improved product quality by incorporating code coverage reports in CI/CD pipelines.<br>
-
+**_Software Engineer Intern_          (May 2022 - January 2023)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
 
 **Bentley Systems** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
-**_Associate Software Engineer_         (September 2019 - July 2021)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
-- Successfully design, develop, and implement a Bentley Developer Network website using Dot Net, C#, SQL, HTML, CSS, JavaScript, and jQuery, driving a 40% increase in user engagement, and receiving positive feedback.<br>
-- Efficiently develop a history bar feature for a Desktop Application using C++, completing within one week, saving users 50% of their time navigating the application. <br>
-- Enabled managers to directly select and update license features in the database by creating web pages with React, Redux, HTML, CSS, JavaScript, and GraphQL, resulting in a 40% reduction in middleman work. <br>
-- Boosted video engagement by 30% and improved user experience by implementing a like button feature on videos using React, CSS, HTML, JavaScript, SQL and C#. <br>
+**_Software Engineer_         (September 2019 - July 2021)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+
 
 <h3>🤔 Contact Me </h3>
 
